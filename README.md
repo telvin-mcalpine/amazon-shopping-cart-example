@@ -4,7 +4,9 @@
 
 ### 2. Fork this repo
 
-If you want to experiment with running this project, you'll need to [fork](git@github.com:telvin-mcalpine/amazon-shopping-cart-example.git) it first.
+If you want to experiment with running this project, you'll need to fork it first.
+
+git@github.com:telvin-mcalpine/amazon-shopping-cart-example.git)
 
 After forking this project in `Github`, run these commands:
 
