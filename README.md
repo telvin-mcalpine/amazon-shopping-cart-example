@@ -4,7 +4,7 @@
 
 ### 2. Fork this repo
 
-If you want to experiment with running this project, you'll need to [fork]() it first.
+If you want to experiment with running this project, you'll need to [fork](git@github.com:telvin-mcalpine/amazon-shopping-cart-example.git) it first.
 
 After forking this project in `Github`, run these commands:
 
@@ -16,3 +16,6 @@ cd your-project
 
 ## install the node_modules
 npm install
+
+## open cypress
+node_modules/.bin/cypress open
