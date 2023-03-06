@@ -1,7 +1,7 @@
 describe('Amazon Shopping Cart Example', () => {
 
     it('should begin adding to the shopping cart check', () => {
-
+        // Add the exception to quiet the test failures from amazon
         Cypress.on('uncaught:exception', (err, runnable) => {
             // returning false here prevents Cypress from
             // failing the test
